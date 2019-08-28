@@ -1,0 +1,50 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #434343;
+}
+
+#dlbutton1{
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#text1{
+    position: absolute;
+    color: black;
+    font-size: 685%;
+    background-color: white;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#popup1{
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#textpopup{
+    position: absolute;
+    font-size: 700%;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#thumbsup{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    top: 18%;
+    left: 81%;
+    transform: translate(-50%, -50%);
+}
