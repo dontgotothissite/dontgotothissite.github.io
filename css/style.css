@@ -19,6 +19,7 @@ body, html {
     color: black;
     font-size: 685%;
     background-color: white;
+    white-space: nowrap;
     top: 26%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -47,4 +48,13 @@ body, html {
     top: 18%;
     left: 81%;
     transform: translate(-50%, -50%);
+}
+
+#disclaimer{
+    position: absolute;
+    color: #3B3B3B;
+    top: 97%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
 }
